@@ -1,0 +1,42 @@
+{
+    "name": "mongoose-form-factory",
+    "version": "0.1.0",
+    "description": "Generates forms for MongooseJS models similar to Django",
+    "main": "./index",
+    "dependencies": {
+        "mongoose": "3.x.x",
+        "nunjucks": "0.x.x",
+        "underscore": "1.x.x",
+        "async": "0.x.x",
+        "sugar": "1.x.x",
+        "forms": "0.x.x",
+        "mongoose-form-factory-types": "1.x.x",
+        "mongoose-validator": "0.x.x"
+    },
+    "engine": "node >= 0.8.1",
+    "devDependencies": {},
+    "keywords": [
+        "mongoose",
+        "forms",
+        "mongodb",
+        "factory",
+        "form factory",
+        "model form"
+    ],
+    "author": {
+        "name": "Corey Pauley",
+        "email": "corey.pauley@imaginuity.com"
+    },
+    "contributors": [{
+        "name": "Corey Pauley",
+        "email": "corey.pauley@imaginuity.com"
+    }],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/devspacenine/mongoose-form-factory.git"
+    },
+    "licenses": [{
+        "type": "The MIT License",
+        "url": "http://www.opensource.org/licenses/mit-license.php"
+    }]
+}
